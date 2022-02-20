@@ -65,9 +65,9 @@ Publish the website in the given URL.
 </html>
 ```
 ### view.py:
-
+```
 from django.shortcuts import render
-
+```
 ### Create your views here.
 ```
 def areacalculation(request):
